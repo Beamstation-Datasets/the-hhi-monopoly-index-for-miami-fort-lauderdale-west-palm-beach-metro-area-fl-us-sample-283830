@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c59c61af-ec5b-40db-94c5-03d86718bfed",
+  "id_short": 283830,
+  "published_at": "2026-04-12T07:12:05Z",
+  "repo_name": "the-hhi-monopoly-index-for-miami-fort-lauderdale-west-palm-beach-metro-area-fl-us-sample-283830",
+  "sample_asset_name": "beamstation_283830_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/283830/beamstation_283830_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "7159175d0b7a6b3202d9518cff9395c54817041a2a71786ef5389c7a7243e2cd",
+  "sample_size_bytes": 144577,
+  "total_records": 336
+}
