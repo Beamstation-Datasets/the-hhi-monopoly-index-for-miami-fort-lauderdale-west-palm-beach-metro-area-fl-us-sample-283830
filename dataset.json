@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Miami-Fort Lauderdale-West Palm Beach Metro Area, FL, US",
+  "export_job_id": "c59c61af-ec5b-40db-94c5-03d86718bfed",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 283830,
+  "location_name": "Miami-Fort Lauderdale-West Palm Beach, FL",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-miami-fort-lauderdale-west-palm-beach-metro-area-fl-us-sample-283830",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/283830/beamstation_283830_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_pct": 9.82,
+  "sample_records": 33,
+  "sample_sha256": "7159175d0b7a6b3202d9518cff9395c54817041a2a71786ef5389c7a7243e2cd",
+  "sample_size_bytes": 144577,
+  "total_records": 336,
+  "updated_at": "2026-04-08T00:25:45.284609+00:00"
+}
