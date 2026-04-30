@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Miami-Fort Lauderdale-West Palm Beach Metro Area, FL, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `283830` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 159 records |
-| Free sample size | 15 records (9.43%) |
-| Last export | 2026-04-22T12:02:05.785492+00:00 |
+| Full dataset size | 268 records |
+| Free sample size | 26 records (9.7%) |
+| Last export | 2026-04-29T13:03:50.913645+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-miami-fort-lauderdale-west-palm-beach-metro-area-fl-us-sample-283830/releases/download/sample-latest/beamstation_283830_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
